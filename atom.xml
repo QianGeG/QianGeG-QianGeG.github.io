@@ -6,7 +6,7 @@
   <link href="https://qiangeg.github.io/atom.xml" rel="self"/>
   
   <link href="https://qiangeg.github.io/"/>
-  <updated>2024-04-20T05:55:28.698Z</updated>
+  <updated>2024-04-20T04:48:53.363Z</updated>
   <id>https://qiangeg.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>pic_test</title>
-    <link href="https://qiangeg.github.io/2024/04/20/pic-test/"/>
-    <id>https://qiangeg.github.io/2024/04/20/pic-test/</id>
-    <published>2024-04-20T05:40:42.000Z</published>
-    <updated>2024-04-20T05:55:28.698Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/QianGeG.github.io/.io//04/20/pic-test/tp3.2.3_find.png" class title="This is an image"><p><img src="/QianGeG.github.io/.io//github_io\blog_start\source_posts\pic-test\tp3.2.3_find.png" alt="tp3.2.3_find"></p><p><img src="/QianGeG.github.io/.io//github_io\blog_start\source_posts\pic-test\Snipaste_2024-04-20_12-20-13.png" alt="Snipaste_2024-04-20_12-20-13"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;img src=&quot;/QianGeG.github.io/.io//04/20/pic-test/tp3.2.3_find.png&quot; class title=&quot;This is an image&quot;&gt;
-
-&lt;p&gt;&lt;img src=&quot;/QianGeG.github.io/.io//git</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Thinkphp3.2.3-SQL注入分析</title>
